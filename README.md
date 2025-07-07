@@ -1,6 +1,8 @@
 # Portfolio
 
-Hello, I am Soha Sultana, a third-year student at the University of Washington studying Informatics. I have projects in both front-end and back-end development which I have gained experience through class projects.
+Hello, I am Soha Sultana, a third-year student at the University of Washington studying Informatics. I have projects in both front-end and back-end development which I have gained experience through class projects. 
+I also am interested in Agentic AI and have explored this using Azure OpenAI. You can read more about my experience here:
+
 Please feel free to contact me at sohas@uw.edu
 
 Linkedin: www.linkedin.com/in/sohasultanauw 
