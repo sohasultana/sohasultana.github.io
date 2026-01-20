@@ -1,18 +1,17 @@
 # Portfolio
 
-Hello, I am Soha Sultana, a third-year student at the University of Washington studying Informatics. I have projects in both front-end and back-end development which I have gained experience through class projects. 
-I also am interested in Agentic AI and have explored this using Azure OpenAI. You can read more about my experience here:
+Hello, I am Soha Sultana, a senior at the University of Washington studying Informatics with a focus in data science. I am passionate about using data to tell a story and have developed projects where I have created machine learning models to help answer a research question, and am exploring more using Agentic AI. 
 
 Please feel free to contact me at sohas@uw.edu
 
-Linkedin: www.linkedin.com/in/sohasultanauw 
+Linkedin: https://www.linkedin.com/in/sohasultanauw/details/languages/
 
-Resumé: https://uwnetid-my.sharepoint.com/:w:/g/personal/sohas_uw_edu/EUWP_Eu9-4VLmrNARTP23dsB6z-igX0cFliJ6uwIbSqt3g?e=6ApXYN 
+Resumé: 
 
 # About Me
 <img width="210" alt="image" src="https://github.com/user-attachments/assets/b79931fd-6a3b-47f4-b842-2ecf3316540d">
 
-I develop software projects that are dedicated to giving back to my community. I have developed projects using Java, HTML, CSS, React, JavaScript, and SQL. My future career goals include becoming a full-stack developer, where I would like to strengthen my programming skills to build innovative and effective solutions that serve my community.
+I develop that are dedicated to giving back to my community. I have developed projects using Java, HTML, CSS, React, JavaScript, and SQL. My future career goals include becoming a full-stack developer, where I would like to strengthen my programming skills to build innovative and effective solutions that serve my community.
 
 My Methodology for designing such projects starts with identifying an issue that my community is facing, and finding out how I can use technology to solve that issue. I start with understanding the criteria and contraints I am given and use the Software Developmental Model to test out my projects and to continually improve them.  
 
