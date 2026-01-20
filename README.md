@@ -8,6 +8,9 @@ Linkedin: https://www.linkedin.com/in/sohasultanauw/details/languages/
 
 Resumé: https://drive.google.com/file/d/1QK4db8-pY2gmGJsDR84ZtfhktPupJGvd/view?usp=sharing
 
+# Skills 
+Java, Python, SQL, JavaScript, HTML/CSS, R, JSON
+
 # About Me
 <img width="210" alt="image" src="https://github.com/user-attachments/assets/b79931fd-6a3b-47f4-b842-2ecf3316540d">
 
