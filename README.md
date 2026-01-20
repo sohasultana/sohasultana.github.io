@@ -20,6 +20,14 @@ I develop that are dedicated to giving back to my community. I have developed pr
 
 My Methodology for designing such projects starts with identifying an issue that my community is facing, and finding out how I can use technology to solve that issue. I start with understanding the criteria and contraints I am given and use the Software Developmental Model to test out my projects and to continually improve them.  
 
+# Projects
+
+# Aria MVP 
+**Timeframe:** November 2025 - Present  
+**Role:** Back-end Developr  
+**Tools:** Python, AWS Bedrock 
+**Link:** https://github.com/sohasultana/Aria
+
 # Let's Find Dinner
 
 **Timeframe:** September 2023 - December 2023  
