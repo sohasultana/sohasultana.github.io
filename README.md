@@ -16,7 +16,7 @@ Engagement, Data Analysis, Communication, Project Management, Documentation
 # About Me
 <img width="210" alt="image" src="https://github.com/user-attachments/assets/b79931fd-6a3b-47f4-b842-2ecf3316540d">
 
-I develop that are dedicated to giving back to my community. I have developed projects using Java, HTML, CSS, React, JavaScript, and SQL. My future career goals include becoming a full-stack developer, where I would like to strengthen my programming skills to build innovative and effective solutions that serve my community.
+I develop projects that are dedicated to giving back to my community. I have developed projects using Java, HTML, CSS, React, JavaScript, and SQL. My future career goals include becoming a full-stack developer, where I would like to strengthen my programming skills to build innovative and effective solutions that serve my community.
 
 My Methodology for designing such projects starts with identifying an issue that my community is facing, and finding out how I can use technology to solve that issue. I start with understanding the criteria and contraints I am given and use the Software Developmental Model to test out my projects and to continually improve them.  
 
