@@ -10,6 +10,8 @@ Resumé: https://drive.google.com/file/d/1QK4db8-pY2gmGJsDR84ZtfhktPupJGvd/view?
 
 # Skills 
 Java, Python, SQL, JavaScript, HTML/CSS, R, JSON
+Problem-Solving, Time-Management, Collaboration, Excel, Word, Documentation, Stakeholder
+Engagement, Data Analysis, Communication, Project Management, Documentation
 
 # About Me
 <img width="210" alt="image" src="https://github.com/user-attachments/assets/b79931fd-6a3b-47f4-b842-2ecf3316540d">
