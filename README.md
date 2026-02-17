@@ -33,7 +33,7 @@ My Methodology for designing such projects starts with identifying an issue that
 **Timeframe:** September 2023 - December 2023  
 **Role:** Full Stack Developer  
 **Tools:** HTML, CSS, React, JavaScript, GitHub  
-**Link:** Let's Find Dinner
+**Link:** https://github.com/sohasultana/sohasultana.github.io/tree/main/lets-find-dinner 
 
 ## About the Project
 This project connected users to local food banks in the Seattle area. The app consists of four main sections:
@@ -60,12 +60,6 @@ I was responsible for creating the volunteer form for the users. This included:
 - Implementing validation protocols with **JavaScript** to ensure:
   - Only users older than 13 can volunteer.
   - Correct format for email and phone number.
-
-For more information about this project, here is the repo: https://github.com/sohasultana/sohasultana.github.io/tree/main/lets-find-dinner 
-
-
-
-
 
 # Instacart Database
 
