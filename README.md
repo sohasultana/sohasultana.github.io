@@ -61,7 +61,7 @@ I was responsible for creating the volunteer form for the users. This included:
   - Only users older than 13 can volunteer.
   - Correct format for email and phone number.
 
-For more information 
+For more information about this project, here is the repo: https://github.com/sohasultana/sohasultana.github.io/tree/main/lets-find-dinner 
 
 
 
