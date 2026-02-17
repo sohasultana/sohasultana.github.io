@@ -91,21 +91,6 @@ I also created another stored procedure, `newStoreID`, that adds a new grocery s
 
 <img width="347" alt="image" src="https://github.com/user-attachments/assets/20401587-6476-4fea-9e35-a09c432d556f">
 
-## Step by Step Outline
-1. **Started with finding out an Information System**
-2. **Drafted out an ERD with the tables**
-3. **Identified the primary and foreign keys of each table and normalized them to 3rd normal form**
-
-<img width="346" alt="image" src="https://github.com/user-attachments/assets/e84b0ae8-5263-49bb-828e-4d3ebe24a0c2">
-
-4. **Created the database on Azure Cloud Studio**
-
-<img width="244" alt="image" src="https://github.com/user-attachments/assets/9d516cbc-6776-47bc-8875-e0760b561c09">
-
-
-5. **Added Stored Procedures and Business Rules to streamline Data**
-<img width="272" alt="image" src="https://github.com/user-attachments/assets/9b97374f-28a6-4316-a297-78bbf63d360c">
-
-6. **Presented Final Deliverable**
+for a complete view of the project, please view this deliverable:
 https://docs.google.com/presentation/d/13upIJfQKCd0TFLrQI0vJaUULjzw1AbgwI5Eeh7BTBJA/edit?usp=sharing
 
