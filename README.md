@@ -65,7 +65,8 @@ I was responsible for creating the volunteer form for the users. This included:
 
 **Timeframe:** January 2024 - March 2024  
 **Role:** Database Design  
-**Tools:** SQL, Azure Data Studio  
+**Tools:** SQL, Azure Data Studio
+**Link:** https://docs.google.com/presentation/d/13upIJfQKCd0TFLrQI0vJaUULjzw1AbgwI5Eeh7BTBJA/edit?usp=sharing
 
 ## About the Project
 This project consisted of creating a database using SQL for the information system Instacart, which is a website that compares different grocery store prices. The database stores information such as customers, orders, stores, and delivery data. In addition, we also used stored procedures to streamline the process of adding and retrieving data.
@@ -85,6 +86,4 @@ I also created another stored procedure, `newStoreID`, that adds a new grocery s
 
 <img width="347" alt="image" src="https://github.com/user-attachments/assets/20401587-6476-4fea-9e35-a09c432d556f">
 
-for a complete view of the project, please view this deliverable:
-https://docs.google.com/presentation/d/13upIJfQKCd0TFLrQI0vJaUULjzw1AbgwI5Eeh7BTBJA/edit?usp=sharing
 
