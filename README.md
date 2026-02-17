@@ -28,6 +28,22 @@ My Methodology for designing such projects starts with identifying an issue that
 **Tools:** Python, AWS Bedrock 
 **Link:** https://github.com/sohasultana/Aria
 
+## About the Project
+This project consists of developing a low-level MVP of an AI agent called Aria that helps a user plan their day-to-day tasks
+For this project, I developed the back-end workstream which consisted of a data layer to store user information.
+<img width="971" height="377" alt="image" src="https://github.com/user-attachments/assets/3748d5a7-ee51-4851-9bec-f7b1aa190172" />
+I also created sample models that the agent can use via AWS Bedrock when deciding on what task to perform
+<img width="426" height="256" alt="image" src="https://github.com/user-attachments/assets/2cfafdb0-00de-4843-9e2b-3cdf7f0261f1" />
+In order for user data to be pulled from various locations, I implemented router functions 
+<img width="797" height="661" alt="image" src="https://github.com/user-attachments/assets/d893682d-a7ed-4d63-9497-88974b7b68bb" />
+Finally, I created a services function which is reponsible for calling the LLM orchestration 
+<img width="821" height="582" alt="image" src="https://github.com/user-attachments/assets/53d7bc19-71c0-4c8f-b316-0bfe456a7a9d" />
+
+
+
+
+
+
 # Let's Find Dinner
 
 **Timeframe:** September 2023 - December 2023  
