@@ -61,28 +61,7 @@ I was responsible for creating the volunteer form for the users. This included:
   - Only users older than 13 can volunteer.
   - Correct format for email and phone number.
 
-## Step by Step Outline
-1. **Coming up with a Project Topic Proposal**
-2. **Creating a Static Mock-Up (HTML and CSS outline)**
-
-   **Initial Landing Page:**
-   <img width="926" alt="image" src="https://github.com/user-attachments/assets/4d8ac0ba-ddbb-46f2-8b24-f25005f34e9c">
-
-   **Static Form without Validation Protocols:**
-   <img width="658" alt="image" src="https://github.com/user-attachments/assets/865b21cb-c381-4691-adb2-df72cc4ec894">
-
-3. **Adding Validation Protocols with JavaScript**
-   <img width="296" alt="image" src="https://github.com/user-attachments/assets/91e4c730-fa29-4fc9-a49b-8d9d6eaf68c2">
-
-4. **Creating Interactive Features using React**
-
-   **Updated Landing Page with hover interaction:**
-   <img width="937" alt="image" src="https://github.com/user-attachments/assets/3cbeec9a-845f-40d4-8d51-dd5185d74a85">
-
-5. **Creating an Ajax Firebase for Data Analytics**
-   <img width="711" alt="image" src="https://github.com/user-attachments/assets/6f5cba72-7e0e-43ec-b3ca-ff3417a76507">
-
-6. **Deploying the App to GitHub**
+For more information 
 
 
 
