@@ -1,6 +1,6 @@
 # Portfolio
 
-## my heading
+## Heading
 Hello, I am Soha Sultana, a senior at the University of Washington studying Informatics with a focus in data science. I am passionate about using data to tell a story and have developed projects where I have created machine learning models to help answer a research question, and am exploring more using Agentic AI. 
 
 Please feel free to contact me at sohas@uw.edu
