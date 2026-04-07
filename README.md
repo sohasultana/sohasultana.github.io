@@ -32,6 +32,9 @@ My Methodology for designing such projects starts with identifying an issue that
 ## About the Project
 This project is sponsored by the Northwest Indian Fisheries Comission, and is aimed to improve the current website aimed to help Indigenous youth get access to career resources in natural resource management. Here are some more details about this project! Points that are highlighted in bold are tasks that I was responsible for or insights I found. 
 
+<img width="1880" height="928" alt="image" src="https://github.com/user-attachments/assets/c660733a-de39-4ac8-a7b4-d4d17f294739" />
+
+
 ## Project Goals
 - Create a mobile version to accompany website
 - **Improve the data workflow used to show available jobs**
