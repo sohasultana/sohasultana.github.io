@@ -54,6 +54,9 @@ This project is sponsored by the Northwest Indian Fisheries Comission, and is ai
 - **The tool centers around Indigenous values which is crucial to Indigenous students**
 - The Mobile version is helpful if students do not have access to a computer
 
+  <img width="1805" height="793" alt="image" src="https://github.com/user-attachments/assets/1a91e0e7-4eef-42d7-81ba-a6ab760e56e4" />
+
+
 ## Next Steps
 - **Improve data workflow for job postings**
 - Create marketing material
