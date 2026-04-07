@@ -34,22 +34,22 @@ This project is sponsored by the Northwest Indian Fisheries Comission, and is ai
 
 ## Project Goals
 - Create a mobile version to accompany website
-- # Improve the data workflow used to show available jobs
+- **Improve the data workflow used to show available jobs**
 - Increase marketing efforts by creating media packages and art with a local Indigenous artist
 
 ## Project Processes
-- Used FIGMA to create prototype for mobile version
--  # Used Pandas (Python) to find top 10 schools to conduct intial research on 
-- Used Google Analytics to track current website usage 
+- Developed a  FIGMA prototype prototype for mobile version
+-  **Used Pandas (Python) to find top 10 schools to conduct intial research on** 
+- Implemented Google Analytics to track current website usage 
 
 ## Project Takeaways 
 - This tool has been useful for educators
 - The Career Quiz results aligns with expected outcomes
-- # The tool centers around Indigenous values which is crucial to Indigenous students
+- **The tool centers around Indigenous values which is crucial to Indigenous students**
 - The Mobile version is helpful if students do not have access to a computer
 
 ## Next Steps
-- # Improve data workflow for job postings
+- **Improve data workflow for job postings**
 - Create marketing material
 - Create fully working mobile version
 
