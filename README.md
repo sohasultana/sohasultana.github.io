@@ -30,26 +30,26 @@ My Methodology for designing such projects starts with identifying an issue that
 **Link:** https://github.com/nwifc/Team_Cedar.git 
 
 ## About the Project
-This project is sponsored by the Northwest Indian Fisheries Comission, and is aimed to improve the current website aimed to help Indigenous youth get access to career resources in natural resource management. Here are some more details about this project!
+This project is sponsored by the Northwest Indian Fisheries Comission, and is aimed to improve the current website aimed to help Indigenous youth get access to career resources in natural resource management. Here are some more details about this project! Points that are highlighted in bold are tasks that I was responsible for or insights I found. 
 
 ## Project Goals
 - Create a mobile version to accompany website
-- Improve the data workflow used to show available jobs
+- # Improve the data workflow used to show available jobs
 - Increase marketing efforts by creating media packages and art with a local Indigenous artist
 
 ## Project Processes
 - Used FIGMA to create prototype for mobile version
-- Used Pandas (Python) to find top 10 schools to conduct intial research on 
+-  # Used Pandas (Python) to find top 10 schools to conduct intial research on 
 - Used Google Analytics to track current website usage 
 
 ## Project Takeaways 
 - This tool has been useful for educators
 - The Career Quiz results aligns with expected outcomes
-- The tool centers around Indigenous values which is crucial to Indigenous students
+- # The tool centers around Indigenous values which is crucial to Indigenous students
 - The Mobile version is helpful if students do not have access to a computer
 
 ## Next Steps
-- Improve data workflow for job postings
+- # Improve data workflow for job postings
 - Create marketing material
 - Create fully working mobile version
 
