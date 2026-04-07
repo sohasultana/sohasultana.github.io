@@ -43,7 +43,10 @@ This project is sponsored by the Northwest Indian Fisheries Comission, and is ai
 ## Project Processes
 - Developed a  FIGMA prototype prototype for mobile version
 -  **Used Pandas (Python) to find top 10 schools to conduct intial research on** 
-- Implemented Google Analytics to track current website usage 
+- Implemented Google Analytics to track current website usage
+- 
+<img width="722" height="455" alt="image" src="https://github.com/user-attachments/assets/6a9a9ce5-13ff-4d7a-bb6a-b3eb020fb630" />
+
 
 ## Project Takeaways 
 - This tool has been useful for educators
