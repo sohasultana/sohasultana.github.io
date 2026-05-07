@@ -77,19 +77,24 @@ Below are some projects I got to work on, through various classes and activities
 
 This project is sponsored by the Northwest Indian Fisheries Commission and aims to improve career resource accessibility for Indigenous youth pursuing careers in natural resource management.
 
-### Key Contributions
+### Goals:
+- Improve the existing website to make it more responsive and accessible to use
+- Increase the visibility of the website by developing outreach materials
+- Engange Indigenous youth to utilize this tool to help them explore careers in Natural Resource Management
+
+### Processes
 - Improved data workflows used for displaying career opportunities
-- Conducted exploratory data analysis using Pandas to identify schools for outreach and research initiatives
+- # Conducted exploratory data analysis using Pandas to identify schools for outreach and research initiatives
 - Developed mobile-first Figma prototypes
 - Implemented Google Analytics to support user engagement analysis
 
-### Impact
+### Takeaways
 - Improved accessibility of career resources for Indigenous students
 - Supported educators through mobile-first design improvements
 - Helped align career quiz outcomes with user expectations
 
 <details>
-<summary><strong>View Future Development Plans</strong></summary>
+<summary><strong>View Next Steps</strong></summary>
 
 - Improve job posting workflows
 - Create marketing materials
@@ -106,7 +111,8 @@ This project is sponsored by the Northwest Indian Fisheries Commission and aims 
 
 <br><br>
 
-<img src="https://github.com/user-attachments/assets/40cf3824-d601-45a6-96ac-6a5a68e5142d" width="100%" />
+<img width="1881" height="647" alt="image" src="https://github.com/user-attachments/assets/b29fb6f5-2074-4833-adb5-3f0d9c5cc6cd" />
+
 
 </td>
 </tr>
