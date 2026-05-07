@@ -4,7 +4,7 @@
 <tr>
 <td width="65%">
 
-### Informatics Student @ University of Washington
+### Informatics Senior at the University of Washington
 
 I am a senior at the University of Washington studying Informatics with a focus in Data Science. I am passionate about using data to tell meaningful stories through machine learning, analytics, and emerging Agentic AI systems.
 
