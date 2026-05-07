@@ -1,6 +1,6 @@
 Hello, I am Soha Sultana, a senior at the University of Washington studying Informatics with a focus in data science. I am passionate about using data to tell a story and have developed projects where I have created machine learning models to help answer a research question, and am exploring more using Agentic AI.
 
-<img width="210" alt="image" src="https://github.com/user-attachments/assets/b79931fd-6a3b-47f4-b842-2ecf3316540d">. Please feel free to contact me at sohas@uw.edu
+<img width="210" alt="image" src="https://github.com/user-attachments/assets/b79931fd-6a3b-47f4-b842-2ecf3316540d">. Hello, I am Soha Sultana, a senior at the University of Washington studying Informatics with a focus in data science. I am passionate about using data to tell a story and have developed projects where I have created machine learning models to help answer a research question, and am exploring more using Agentic AI. Please feel free to contact me at sohas@uw.edu
 
 Linkedin: https://www.linkedin.com/in/sohasultanauw/details/languages/ ## brackets to link 
 
