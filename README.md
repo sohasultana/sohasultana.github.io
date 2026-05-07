@@ -52,7 +52,7 @@ My interests include:
 - Human-Centered Technology
 - Community-Focused Design
 
-My development process starts by identifying a real-world issue affecting my community and exploring how technology can address that challenge. I use iterative software development practices to continuously test, improve, and refine my projects.
+My development process starts by identifying a real-world issue affecting my community and exploring how technology can address that challenge.
 
 ---
 
