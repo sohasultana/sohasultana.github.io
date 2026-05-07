@@ -1,5 +1,3 @@
-# Soha Sultana
-
 <table>
 <tr>
 <td width="65%">
@@ -106,11 +104,11 @@ This project is sponsored by the Northwest Indian Fisheries Commission and aims 
 
 <td width="40%">
 
-<img width="500" height="1027" alt="image" src="https://github.com/user-attachments/assets/df6e43a8-7ec0-4366-b800-338537adecd9" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/df6e43a8-7ec0-4366-b800-338537adecd9" />
 
 
 <br><br>
-<img width="500" height="452" alt="image" src="https://github.com/user-attachments/assets/a16deae0-6f28-4203-88df-8026787e12b2" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a16deae0-6f28-4203-88df-8026787e12b2" />
 
 
 
