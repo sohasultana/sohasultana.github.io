@@ -1,149 +1,248 @@
-Hello, I am Soha Sultana, a senior at the University of Washington studying Informatics with a focus in data science. I am passionate about using data to tell a story and have developed projects where I have created machine learning models to help answer a research question, and am exploring more using Agentic AI.
-<img width="210" alt="image" src="https://github.com/user-attachments/assets/b79931fd-6a3b-47f4-b842-2ecf3316540d">. Hello, I am Soha Sultana, a senior at the University of Washington studying Informatics with a focus in data science. I am passionate about using data to tell a story and have developed projects where I have created machine learning models to help answer a research question, and am exploring more using Agentic AI. Please feel free to contact me at sohas@uw.edu
+# Soha Sultana
 
-Linkedin: https://www.linkedin.com/in/sohasultanauw/details/languages/ ## brackets to link 
+<table>
+<tr>
+<td width="65%">
 
-Resumé: https://drive.google.com/file/d/1QK4db8-pY2gmGJsDR84ZtfhktPupJGvd/view?usp=sharing
+### Informatics Student @ University of Washington
 
-# Skills 
-Java, Python, SQL, JavaScript, HTML/CSS, R, JSON
-Problem-Solving, Time-Management, Collaboration, Excel, Word, Documentation, Stakeholder
-Engagement, Data Analysis, Communication, Project Management, Documentation
+I am a senior at the University of Washington studying Informatics with a focus in Data Science. I am passionate about using data to tell meaningful stories through machine learning, analytics, and emerging Agentic AI systems.
+
+I enjoy building community-centered technology solutions that combine data science, software engineering, and human-centered design.
+
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/sohasultanauw/) •
+[Resume](https://drive.google.com/file/d/1QK4db8-pY2gmGJsDR84ZtfhktPupJGvd/view?usp=sharing) •
+[Email Me](mailto:sohas@uw.edu)
+
+</td>
+
+<td width="35%">
+
+<img src="https://github.com/user-attachments/assets/b79931fd-6a3b-47f4-b842-2ecf3316540d" width="250" style="border-radius: 12px;" />
+
+</td>
+</tr>
+</table>
+
+---
+
+# Skills
+
+## Programming Languages
+`Java` `Python` `SQL` `JavaScript` `HTML/CSS` `R` `JSON`
+
+## Frameworks & Tools
+`React` `GitHub` `AWS Bedrock` `Google Analytics` `Figma` `Excel`
+
+## Professional Skills
+`Data Analysis` `Project Management` `Stakeholder Engagement` `Communication` `Problem-Solving` `Documentation`
+
+---
 
 # About Me
-I develop projects that are dedicated to giving back to my community. I have developed projects using Java, HTML, CSS, React, JavaScript, and SQL. My future career goals include becoming a full-stack developer, where I would like to strengthen my programming skills to build innovative and effective solutions that serve my community.
 
-<img width="210" alt="image" src="https://github.com/user-attachments/assets/b79931fd-6a3b-47f4-b842-2ecf3316540d">
+I develop projects dedicated to supporting and giving back to my community through technology. My work combines software engineering, machine learning, and data analysis to create accessible and impactful solutions.
 
-My Methodology for designing such projects starts with identifying an issue that my community is facing, and finding out how I can use technology to solve that issue. I start with understanding the criteria and contraints I am given and use the Software Developmental Model to test out my projects and to continually improve them.  
+My interests include:
+- Agentic AI Systems
+- Data Storytelling
+- Full-Stack Development
+- Human-Centered Technology
+- Community-Focused Design
 
-# Projects
+My development process starts by identifying a real-world issue affecting my community and exploring how technology can address that challenge. I use iterative software development practices to continuously test, improve, and refine my projects.
+
+---
+
+# Featured Projects
+
+A collection of projects focused on data science, AI systems, and community-centered technology solutions.
+
+---
 
 # Natural Conservation Career Explorer
-**Timeframe:** January 2026 - Present  
+
+<table>
+<tr>
+<td width="60%">
+
+### Overview
+
+**Timeframe:** January 2026 – Present  
 **Role:** Data Scientist  
-**Tools:** Python 
-**Link:** https://github.com/nwifc/Team_Cedar.git 
+**Tools:** Python, Pandas, Figma, Google Analytics  
 
-## About the Project
-This project is sponsored by the Northwest Indian Fisheries Comission, and is aimed to improve the current website aimed to help Indigenous youth get access to career resources in natural resource management. Here are some more details about this project! Points that are highlighted in bold are tasks that I was responsible for or insights I found. 
+[GitHub Repository](https://github.com/nwifc/Team_Cedar.git)
 
-<img width="1880" height="928" alt="image" src="https://github.com/user-attachments/assets/c660733a-de39-4ac8-a7b4-d4d17f294739" />
+This project is sponsored by the Northwest Indian Fisheries Commission and aims to improve career resource accessibility for Indigenous youth pursuing careers in natural resource management.
 
+### Key Contributions
+- Improved data workflows used for displaying career opportunities
+- Conducted exploratory data analysis using Pandas to identify schools for outreach and research initiatives
+- Developed mobile-first Figma prototypes
+- Implemented Google Analytics to support user engagement analysis
 
-## Project Goals
-- Create a mobile version to accompany website
-- **Improve the data workflow used to show available jobs**
-- Increase marketing efforts by creating media packages and art with a local Indigenous artist
+### Impact
+- Improved accessibility of career resources for Indigenous students
+- Supported educators through mobile-first design improvements
+- Helped align career quiz outcomes with user expectations
 
-## Project Processes
-- Developed a  FIGMA prototype prototype for mobile version
--  **Used Pandas (Python) to find top 10 schools to conduct intial research on** 
-- Implemented Google Analytics to track current website usage
-- 
-<img width="722" height="455" alt="image" src="https://github.com/user-attachments/assets/6a9a9ce5-13ff-4d7a-bb6a-b3eb020fb630" />
+<details>
+<summary><strong>View Future Development Plans</strong></summary>
 
+- Improve job posting workflows
+- Create marketing materials
+- Develop a fully functional mobile application
 
-## Project Takeaways 
-- This tool has been useful for educators
-- The Career Quiz results aligns with expected outcomes
-- **The tool centers around values that are crucial to Indigenous students**
-- The Mobile version is helpful if students do not have access to a computer
+</details>
 
-<img width="1795" height="842" alt="image" src="https://github.com/user-attachments/assets/40cf3824-d601-45a6-96ac-6a5a68e5142d" />
+</td>
 
+<td width="40%">
 
+<img src="https://github.com/user-attachments/assets/c660733a-de39-4ac8-a7b4-d4d17f294739" width="100%" />
 
-## Next Steps
-- **Improve data workflow for job postings**
-- Create marketing material
-- Create fully working mobile version
+<br><br>
 
-# Aria MVP 
-**Timeframe:** November 2025 - Present  
-**Role:** Back-end Developr  
-**Tools:** Python, AWS Bedrock 
-**Link:** https://github.com/sohasultana/Aria
+<img src="https://github.com/user-attachments/assets/40cf3824-d601-45a6-96ac-6a5a68e5142d" width="100%" />
 
-## About the Project
-This project consists of developing a low-level MVP of an AI agent called Aria that helps a user plan their day-to-day tasks.
+</td>
+</tr>
+</table>
 
-For this project, I developed the back-end workstream which consisted of a data layer to store user information.
+---
 
-<img width="971" height="377" alt="image" src="https://github.com/user-attachments/assets/3748d5a7-ee51-4851-9bec-f7b1aa190172" />
+# Aria MVP
 
-I also created sample models that the agent can use via AWS Bedrock when deciding on what task to perform.
+<table>
+<tr>
+<td width="60%">
 
-<img width="426" height="256" alt="image" src="https://github.com/user-attachments/assets/2cfafdb0-00de-4843-9e2b-3cdf7f0261f1" />
+### Overview
 
-In order for user data to be pulled from various locations, I implemented router functions.
-<img width="797" height="661" alt="image" src="https://github.com/user-attachments/assets/d893682d-a7ed-4d63-9497-88974b7b68bb" />
+**Timeframe:** November 2025 – Present  
+**Role:** Backend Developer  
+**Tools:** Python, AWS Bedrock  
 
-Finally, I created a services function which is reponsible for calling the LLM orchestration.
+[GitHub Repository](https://github.com/sohasultana/Aria)
 
-<img width="821" height="582" alt="image" src="https://github.com/user-attachments/assets/53d7bc19-71c0-4c8f-b316-0bfe456a7a9d" />
+Aria is an AI agent MVP designed to help users plan and manage day-to-day tasks through intelligent orchestration workflows.
 
+### Key Contributions
+- Built backend infrastructure and data storage layers
+- Developed AI model workflows using AWS Bedrock
+- Implemented routing functions for multi-source user data retrieval
+- Created orchestration services responsible for LLM interactions
 
+### Technical Highlights
+- AI agent architecture
+- LLM orchestration workflows
+- Backend service development
+- Scalable routing systems
 
+<details>
+<summary><strong>View Technical Details</strong></summary>
 
+This project focused on creating a foundational backend architecture capable of supporting intelligent task-planning systems using agentic AI workflows and cloud-based LLM services.
 
+</details>
+
+</td>
+
+<td width="40%">
+
+<img src="https://github.com/user-attachments/assets/3748d5a7-ee51-4851-9bec-f7b1aa190172" width="100%" />
+
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/d893682d-a7ed-4d63-9497-88974b7b68bb" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
 
 # Let's Find Dinner
 
-**Timeframe:** September 2023 - December 2023  
+<table>
+<tr>
+<td width="60%">
+
+### Overview
+
+**Timeframe:** September 2023 – December 2023  
 **Role:** Full Stack Developer  
 **Tools:** HTML, CSS, React, JavaScript, GitHub  
-**Link:** https://github.com/sohasultana/sohasultana.github.io/tree/main/lets-find-dinner 
 
-## About the Project
-This project connected users to local food banks in the Seattle area. The app consists of four main sections:
+[GitHub Repository](https://github.com/sohasultana/sohasultana.github.io/tree/main/lets-find-dinner)
 
-- **About Page:** Explains the purpose of the app and its services.
+This application connected users with local food banks throughout the Seattle area and provided volunteer engagement opportunities.
 
-  <img width="915" alt="Landing Page Port" src="https://github.com/user-attachments/assets/c257e8f5-4da6-4d44-82f8-fc1d24376c11">
+### Features
+- User profile creation
+- Food bank filtering system
+- Volunteer registration forms
+- Community resource accessibility
 
-- **Profile Section:** Allows users to create a profile for volunteering or using food bank services.
+### Key Contributions
+- Developed frontend interfaces using React
+- Built filtering systems for food bank discovery
+- Designed user-focused community resource workflows
+- Created responsive layouts for accessibility
 
-  <img width="944" alt="image" src="https://github.com/user-attachments/assets/6800f6cb-f465-4f0a-a7b9-225b1080534e">
+### Impact
+- Improved visibility of local food resources
+- Simplified volunteer engagement processes
+- Enhanced accessibility to community services
 
-- **Find-a-Foodbank Section:** Users can filter through food banks to match their preferences.
+<details>
+<summary><strong>View Project Features</strong></summary>
 
-  <img width="919" alt="image" src="https://github.com/user-attachments/assets/3266677f-3b35-4bfa-81d0-01dcb7616e9f">
+#### About Page
+Explains the mission and purpose of the application.
 
-- **Volunteer Form:** Users can sign up to be a volunteer.
+#### Profile Section
+Allows users to create profiles for volunteering or using food bank services.
 
-  <img width="407" alt="image" src="https://github.com/user-attachments/assets/2b2a7851-005f-4aa3-8b64-60760297aa68">
+#### Food Bank Finder
+Users can filter food banks based on preferences and needs.
 
-## Deliverables
-I was responsible for creating the volunteer form for the users. This included:
-- Using **HTML** and **JavaScript** to create different form sections (name, age, zip code, contact information).
-- Implementing validation protocols with **JavaScript** to ensure:
-  - Only users older than 13 can volunteer.
-  - Correct format for email and phone number.
+#### Volunteer Form
+Supports volunteer registration and community engagement.
 
-# Instacart Database
+</details>
 
-**Timeframe:** January 2024 - March 2024  
-**Role:** Database Design  
-**Tools:** SQL, Azure Data Studio
-**Link:** https://docs.google.com/presentation/d/13upIJfQKCd0TFLrQI0vJaUULjzw1AbgwI5Eeh7BTBJA/edit?usp=sharing
+</td>
 
-## About the Project
-This project consisted of creating a database using SQL for the information system Instacart, which is a website that compares different grocery store prices. The database stores information such as customers, orders, stores, and delivery data. In addition, we also used stored procedures to streamline the process of adding and retrieving data.
+<td width="40%">
 
-## Deliverables
-I created the Order table which tracks the order details:
+<img src="https://github.com/user-attachments/assets/c257e8f5-4da6-4d44-82f8-fc1d24376c11" width="100%" />
 
-<img width="374" alt="image" src="https://github.com/user-attachments/assets/5687afc6-19c6-4ce7-bb04-75b2ee028e06">
+<br><br>
 
-When creating the data table, I focused on normalization techniques, such as identifying the primary and foreign keys. After this, I worked with my teammates to get the ERD into third normal form, to ensure there were no redundant values. Additionally, I managed the data by creating a stored procedure called `GetCustomerID`, which is used to add a new customer into the database using the same code to increase efficiency.
+<img src="https://github.com/user-attachments/assets/3266677f-3b35-4bfa-81d0-01dcb7616e9f" width="100%" />
 
-<img width="261" alt="image" src="https://github.com/user-attachments/assets/ab21f7dc-e261-4f3b-a916-1e03e10673cb">
-<img width="235" alt="image" src="https://github.com/user-attachments/assets/df9bcef7-9038-47f1-b524-77ad1f75ef52">
-<img width="239" alt="image" src="https://github.com/user-attachments/assets/594f2caf-21e6-414a-810b-f8d632cd45e3">
+</td>
+</tr>
+</table>
 
-I also created another stored procedure, `newStoreID`, that adds a new grocery store into the database:
+---
 
-<img width="347" alt="image" src="https://github.com/user-attachments/assets/20401587-6476-4fea-9e35-a09c432d556f">
+# Contact
+
+I’m currently seeking opportunities in:
+- Software Engineering
+- Data Science
+- AI & Machine Learning
+- Full-Stack Development
+
+### Connect With Me
+
+- Email: sohas@uw.edu
+- LinkedIn: https://www.linkedin.com/in/sohasultanauw/
+- GitHub: https://github.com/sohasultana
 
 
