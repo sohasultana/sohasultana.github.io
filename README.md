@@ -75,7 +75,7 @@ Below are some projects I got to work on, through various classes and activities
 
 [GitHub Repository](https://github.com/nwifc/Team_Cedar.git)
 
-This project is sponsored by the Northwest Indian Fisheries Commission and aims to improve career resource accessibility for Indigenous youth pursuing careers in natural resource management.
+This project is sponsored by the Northwest Indian Fisheries Commission and aims to improve career resource accessibility for Indigenous youth pursuing careers in natural resource management. (Items bolded are tasks I was responsible for). 
 
 ### Goals:
 - Improve the existing website to make it more responsive and accessible to use
@@ -84,7 +84,7 @@ This project is sponsored by the Northwest Indian Fisheries Commission and aims 
 
 ### Processes
 - Improved data workflows used for displaying career opportunities
-- # Conducted exploratory data analysis using Pandas to identify schools for outreach and research initiatives
+- **Conducted exploratory data analysis using Pandas to identify schools for outreach and research initiatives**
 - Developed mobile-first Figma prototypes
 - Implemented Google Analytics to support user engagement analysis
 
@@ -96,7 +96,7 @@ This project is sponsored by the Northwest Indian Fisheries Commission and aims 
 <details>
 <summary><strong>View Next Steps</strong></summary>
 
-- Improve job posting workflows
+- **Improve job posting workflows**
 - Create marketing materials
 - Develop a fully functional mobile application
 
@@ -110,8 +110,9 @@ This project is sponsored by the Northwest Indian Fisheries Commission and aims 
 
 
 <br><br>
+<img width="722" height="452" alt="image" src="https://github.com/user-attachments/assets/a16deae0-6f28-4203-88df-8026787e12b2" />
 
-<img width="1881" height="647" alt="image" src="https://github.com/user-attachments/assets/b29fb6f5-2074-4833-adb5-3f0d9c5cc6cd" />
+
 
 
 </td>
