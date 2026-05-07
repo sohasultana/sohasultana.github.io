@@ -89,9 +89,9 @@ This project is sponsored by the Northwest Indian Fisheries Commission and aims 
 - Implemented Google Analytics to support user engagement analysis
 
 ### Takeaways
-- Improved accessibility of career resources for Indigenous students
-- Supported educators through mobile-first design improvements
-- Helped align career quiz outcomes with user expectations
+- Indigenous youth want to work in careers their align with their values 
+- There are a lot of tools and resources but they are not as visible or accessible 
+- Community support really influences Indigenous youth's career choices 
 
 <details>
 <summary><strong>View Next Steps</strong></summary>
