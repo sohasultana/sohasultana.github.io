@@ -13,8 +13,8 @@ I enjoy building community-centered technology solutions that combine data scien
 <br>
 
 [LinkedIn](https://www.linkedin.com/in/sohasultanauw/) •
-[Resume](https://drive.google.com/file/d/1QK4db8-pY2gmGJsDR84ZtfhktPupJGvd/view?usp=sharing) •
-[Email Me](mailto:sohas@uw.edu)
+[Resume](https://drive.google.com/file/d/1CQEx-ZssGbYrVISQs4WrD0u8lRmGUcfu/view?usp=sharing) •
+[Email](mailto:sohas@uw.edu)
 
 </td>
 
