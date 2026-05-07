@@ -61,7 +61,7 @@ Below are some projects I got to work on, through various classes and activities
 
 ---
 
-# Natural Conservation Career Explorer
+# Rooted Futures
 
 <table>
 <tr>
@@ -101,7 +101,8 @@ This project is sponsored by the Northwest Indian Fisheries Commission and aims 
 
 <td width="40%">
 
-<img src="https://github.com/user-attachments/assets/c660733a-de39-4ac8-a7b4-d4d17f294739" width="100%" />
+<img width="1886" height="1027" alt="image" src="https://github.com/user-attachments/assets/df6e43a8-7ec0-4366-b800-338537adecd9" />
+
 
 <br><br>
 
