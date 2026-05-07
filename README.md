@@ -43,22 +43,21 @@ I enjoy building community-centered technology solutions that combine data scien
 
 # About Me
 
-I develop projects dedicated to supporting and giving back to my community through technology. My work combines software engineering, machine learning, and data analysis to create accessible and impactful solutions.
+I develop projects dedicated to supporting and giving back to my community through technology. My projects combine backend development, machine learning, and data analysis to create accessible and impactful solutions.
 
 My interests include:
 - Agentic AI Systems
 - Data Storytelling
-- Full-Stack Development
 - Human-Centered Technology
-- Community-Focused Design
+- Designing for Communities
 
 My development process starts by identifying a real-world issue affecting my community and exploring how technology can address that challenge.
 
 ---
 
-# Featured Projects
+# Project Overview
 
-A collection of projects focused on data science, AI systems, and community-centered technology solutions.
+Below are some projects I got to work on, through various classes and activities. These show my different areas of interest as well as some key skills I learned throughout the process. 
 
 ---
 
