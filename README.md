@@ -27,6 +27,19 @@ I enjoy building community-centered technology solutions that combine data scien
 </table>
 
 ---
+# About Me
+
+I develop projects dedicated to supporting and giving back to my community through technology. My projects combine backend development, machine learning, and data analysis to create accessible and impactful solutions.
+
+My interests include:
+- Agentic AI Systems
+- Data Storytelling
+- Human-Centered Technology
+- Designing for Communities
+
+My development process starts by identifying a real-world issue affecting my community and exploring how technology can address that challenge.
+
+--- 
 
 # Skills
 
@@ -41,19 +54,6 @@ I enjoy building community-centered technology solutions that combine data scien
 
 ---
 
-# About Me
-
-I develop projects dedicated to supporting and giving back to my community through technology. My projects combine backend development, machine learning, and data analysis to create accessible and impactful solutions.
-
-My interests include:
-- Agentic AI Systems
-- Data Storytelling
-- Human-Centered Technology
-- Designing for Communities
-
-My development process starts by identifying a real-world issue affecting my community and exploring how technology can address that challenge.
-
----
 
 # Project Overview
 
