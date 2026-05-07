@@ -137,13 +137,13 @@ This project is sponsored by the Northwest Indian Fisheries Commission and aims 
 
 Aria is an AI agent MVP designed to help users plan and manage day-to-day tasks through intelligent orchestration workflows.
 
-### Key Contributions
+### Contributions
 - Built backend infrastructure and data storage layers
 - Developed AI model workflows using AWS Bedrock
 - Implemented routing functions for multi-source user data retrieval
 - Created orchestration services responsible for LLM interactions
 
-### Technical Highlights
+### Tech Stack
 - AI agent architecture
 - LLM orchestration workflows
 - Backend service development
@@ -152,7 +152,7 @@ Aria is an AI agent MVP designed to help users plan and manage day-to-day tasks 
 <details>
 <summary><strong>View Technical Details</strong></summary>
 
-This project focused on creating a foundational backend architecture capable of supporting intelligent task-planning systems using agentic AI workflows and cloud-based LLM services.
+This project focused on creating a foundational backend architecture capable of supporting a task-planning system that uses agentic AI workflows and cloud-based LLM services.
 
 </details>
 
@@ -186,25 +186,18 @@ This project focused on creating a foundational backend architecture capable of 
 
 [GitHub Repository](https://github.com/sohasultana/sohasultana.github.io/tree/main/lets-find-dinner)
 
-This application connected users with local food banks throughout the Seattle area and provided volunteer engagement opportunities.
+This is a website that is intended to help people to find food banks in the Seattle area and for prospective volunteers to find available food banks they can help in. 
 
 ### Features
 - User profile creation
 - Food bank filtering system
-- Volunteer registration forms
-- Community resource accessibility
-
-### Key Contributions
+- Volunteer registration form
+- 
+### Contributions
 - Developed frontend interfaces using React
 - Built filtering systems for food bank discovery
-- Designed user-focused community resource workflows
 - Created responsive layouts for accessibility
-
-### Impact
-- Improved visibility of local food resources
-- Simplified volunteer engagement processes
-- Enhanced accessibility to community services
-
+  
 <details>
 <summary><strong>View Project Features</strong></summary>
 
@@ -241,12 +234,11 @@ Supports volunteer registration and community engagement.
 # Contact
 
 I’m currently seeking opportunities in:
-- Software Engineering
-- Data Science
+- Data Science and Analytics
 - AI & Machine Learning
 - Full-Stack Development
 
-### Connect With Me
+### Contact Me
 
 - Email: sohas@uw.edu
 - LinkedIn: https://www.linkedin.com/in/sohasultanauw/
